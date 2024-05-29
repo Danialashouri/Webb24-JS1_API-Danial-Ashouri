@@ -5,7 +5,7 @@ body {
     font-family: "Fjalla One", sans-serif;
     font-weight: 400;
     font-style: normal;
-    background-image: url(/images/backgroundpicture.png);
+    background-image: url(../images/backgroundpicture.png);
     background-size: 80% auto;
     background-repeat: no-repeat;
     background-position: center;
